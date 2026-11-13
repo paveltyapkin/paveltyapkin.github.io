@@ -4,6 +4,9 @@ defaultContentLanguage = "ru"
 defaultContentLanguageInSubdir = true
 enableMissingTranslationPlaceholders = false
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [pagination]
   pagerSize = 15
 
