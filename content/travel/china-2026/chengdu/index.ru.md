@@ -80,3 +80,13 @@ draft = false
 ![](/ru/travel/china-2026/chengdu/chengdu-11.jpg)
 
 ![](/ru/travel/china-2026/chengdu/chengdu-09.jpg)
+
+## Другие части:
+
+[Часть 1: Пекин](/ru/travel/china-2026/beijing)
+
+[Часть 2: Мутяньюй](/ru/travel/china-2026/mutianyi)
+
+[Часть 3: Сиань](/ru/travel/china-2026/xian)
+
+Часть 4: Чэнду (Вы здесь)
