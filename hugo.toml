@@ -5,7 +5,7 @@ defaultContentLanguageInSubdir = true
 enableMissingTranslationPlaceholders = false
 
 [pagination]
-  pagerSize = 5
+  pagerSize = 15
 
 [markup.highlight]
   noClasses = false
