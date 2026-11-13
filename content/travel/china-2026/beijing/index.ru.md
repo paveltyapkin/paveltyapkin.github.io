@@ -9,7 +9,7 @@ date = '2026-07-05T22:20:16+03:00'
 draft = false
 +++
 
-# Поездка в Китай, апрель-май 2026 г. часть 1: про всю поездку и Пекин
+# Поездка в Китай, апрель-май 2026 г. часть 1: Пекин
 
 Здесь разместилась куча текста на тему моей второй поездки в Китай в 2026 году. В одну часть не уложился, решил поделить на несколько частей.
 
@@ -44,14 +44,14 @@ draft = false
 По покрытию: за все время поездки по маршруту расстоянием 2000 км связь ниже 5G не опускалась (даже на поезде и в метро). В городе — почти всегда 5GA. 
 
 Что по скоростям? Прикрепляю скриншот Speedtest из метрополитена (!!!) Чэнду. Скорости мы можете видеть сами. 
-![](/ru/travel/china-2026/part-1/China_2026_0.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_0.jpg)
 Интернет достаточно свободный (мне, как и вам последнее время есть с чем сравнить — это просто несравнимо), а с разного рода "ускорителями" — ещё и с дополнительными возможностями.
 Как-то так.
 
 
 Из необычного: А вы когда-нибудь пробовали Oreo со вкусом грибов? :D
 
-![](/ru/travel/china-2026/part-1/China_2026_1.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_1.jpg)
 
 
 ## Пекин.
@@ -87,40 +87,40 @@ draft = false
 ## Фотографии:
 
 
-![](/ru/travel/china-2026/part-1/China_2026_2.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_2.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_3.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_3.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_4.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_4.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_5.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_5.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_6.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_6.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_7.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_7.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_8.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_8.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_9.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_9.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_10.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_10.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_11.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_11.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_12.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_12.jpg)
 
 
-![](/ru/travel/china-2026/part-1/China_2026_13.jpg)
+![](/ru/travel/china-2026/beijing/China_2026_13.jpg)
 
 
 ## Что дальше?
